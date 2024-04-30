@@ -1,0 +1,6 @@
+[submodule "tensilelib"]
+	path = tensilelib
+	url = git@github.com:themosha/tensilelib.git
+[submodule "duckdb"]
+	path = duckdb
+	url = https://github.com/duckdb/duckdb.git
